@@ -1,0 +1,10 @@
+# HodgeClean computational framework requirements
+# Compatible with SageMath 10.7 and Python 3.12+
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+sympy>=1.12
+scipy>=1.13.0
+jsonschema>=4.21.0
+pathlib
+notebook>=7.1.0
