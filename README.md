@@ -137,4 +137,4 @@ Develop proofs or counterexamples using the provided datasets.
 
 > “This repository is dedicated to open mathematical progress.
 All credit for derivative discoveries belongs equally to those who build upon it.”
-— David Manning, Galesburg 2025
+— David Manning, Galesburg, Illinois, 2025.
